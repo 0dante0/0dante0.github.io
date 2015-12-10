@@ -1,0 +1,117 @@
+
+body {
+          font-family: 'Black Ops One', cursive;}
+header {
+    background-image: url(http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/watercolor-grunge/watercolor-grunge-000002-gray-black.jpg
+      );
+    background-size: contain;
+    color:white;
+    text-align:center;
+
+
+}
+nav{
+ background-image: url(http://www.photosinbox.com/download/warning-background.jpg);
+ background-size: cover;
+}
+nav a{
+
+      display: inline-grid;
+      width: 120px;
+      font-weight:;
+      color: black;
+      text-align: inherit;
+      padding: 7px;
+      margin-top:;
+      font-size: 30;
+      text-decoration: none;
+      font-family: 'Black Ops One', cursive;
+      }
+section h1 {
+  display: block;
+
+  align-items: center;
+  text-align: center;
+font-family: 'Black Ops One', cursive;
+  background-size: contain
+  color: white
+}
+section   {
+   display: block;
+   font-size: 13;
+  align-items: center;
+  padding: 20;
+font-family: 'Black Ops One', cursive;
+font-size: 30;
+ color: white;
+}
+section img {
+     display: center;
+   height: auto;
+ width: 400;}
+section p {
+ background-image: url(http://pre10.deviantart.net/e084/th/pre/f/2013/136/b/7/metal_texture_by_markwester-d65g6nf.png)
+ opacity: 0,1;
+}
+div.wapenhokje {
+
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    height: 200;
+    width: 200;
+    float:left;
+    text-align: center;
+    display: inline-block;
+  background-image: url(http://www.psdgraphics.com/file/grunge-danger-background.jpg);
+ background-size: cover;}
+div.wapenhokje img {
+    display: inline-block;
+    margin-top:40px;
+    height: 120px;
+    width: 200px;
+
+
+
+
+}
+div.wapenhokje a:hover img {
+  text-align: center;
+
+
+
+}
+div.wapenhokjebeschrijving {
+
+ margin-top: 15;
+
+
+
+ }
+div.klantenreviews{
+  margin-top: 200
+}
+  div.klantenfotos1 img
+   {  margin:20px;
+     margin-left: 130;
+    padding: px;
+    border: px solid black;
+    height: 200;
+    width: 200;
+    float:left;
+    text-align: center;
+      display: inline-block;}
+div.klantenfotos img
+ {  margin:20px;
+  padding: px;
+  border: px solid black;
+  height: 200;
+  width: 200;
+  float:left;
+  text-align: center;
+  display: inline-block;
+}
+ div.fotosachtergrond{
+   background-image: url(http://hdwpics.com/images/06A927491AF0/Black-Metal-Texture.jpg);
+
+ }
